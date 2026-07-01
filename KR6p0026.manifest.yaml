@@ -1,0 +1,173 @@
+canonical_identifier: bkk:krp/KR6p0026/v1
+canonical_location: https://kanripo.org/bkk/KR6p0026/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿彌陀經略註
+  identifiers:
+    alt_id:
+    - X22n0431
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0431.xml
+    old_id: X22n0431
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0026_000.yaml, hash: 'sha256:b390aa38c7cddfbe9b20765f8d491512638058a4effedf9bea039ca0315c5cb2'}
+  - {seq: 1, filename: KR6p0026_001.yaml, hash: 'sha256:f699f61ffeca6e9cafada0c88ec5406d4d31af93b99eb19d292c138a001ee4d1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0026_000.markers.yaml, hash: 'sha256:1f3d95bd08f112ddd6b65defab46e0744fa043b7922dd04360ea343723d59719'}
+  - {seq: 1, role: markers, filename: assets/KR6p0026_001.markers.yaml, hash: 'sha256:b56202fa51a3d1b7a571c0b982e9f59133528aba4dc725058a74e966c445b4c8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0026_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 431-A 彌陀略註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15818
+  label: 佛說阿彌陀經略註
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-2
+    span:
+    - body
+    - 35
+    - 35
+  label: 一教起所因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-3
+    span:
+    - body
+    - 179
+    - 179
+  label: 二藏乘分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-4
+    span:
+    - body
+    - 275
+    - 275
+  label: 三時會前後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-5
+    span:
+    - body
+    - 480
+    - 480
+  label: 四教義分齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-6
+    span:
+    - body
+    - 906
+    - 906
+  label: 五所被階品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-7
+    span:
+    - body
+    - 1019
+    - 1019
+  label: 六教體淺深
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-8
+    span:
+    - body
+    - 1118
+    - 1118
+  label: 七宗趣通局
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-9
+    span:
+    - body
+    - 1379
+    - 1379
+  label: 八部類差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-10
+    span:
+    - body
+    - 1441
+    - 1441
+  label: 九總釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-11
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 十別解文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0026_X_001-mulu-12
+    span:
+    - body
+    - 15573
+    - 15573
+  label: No. 431-B 校刻略註緣起
+  type: mulu
+  level: 1
+hash: sha256:94527c19b494c1c3678e9054f7bfa5ea8daba605b3a4c8504512032e2842520d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
