@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0026_000.yaml, hash: 'sha256:9be1d5f748b89b26a146fb633eb722f0a2f4c6884508f7806bad151aac415f4a'}
+  - {seq: 0, filename: KR6p0026_000.yaml, hash: 'sha256:5fe92de982ff86dc91c64c6e2fb75aeb396e2099f3437387cd4a2705e74b5598'}
   - {seq: 1, filename: KR6p0026_001.yaml, hash: 'sha256:a7f451c5f0a23f362cce087c1924a272aef6efb99ec7163e5e65449eb426b209'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0026_000.markers.yaml, hash: 'sha256:4674e318ac7b94864cb8fa3817e05563726461a98092c374d9ec214572299623'}
+  - {seq: 0, role: markers, filename: assets/KR6p0026_000.markers.yaml, hash: 'sha256:63f0da871664fd1dd50bf9923096e830466c3161cd751205c8df28c716253f44'}
   - {seq: 1, role: markers, filename: assets/KR6p0026_001.markers.yaml, hash: 'sha256:5739d475eeb6c55bd1d7a4f12de12f0d9cfe28fb28deffbf46056bc46393eb8a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0026_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 431-A 彌陀略註序
@@ -167,7 +167,7 @@ table_of_contents:
   label: No. 431-B 校刻略註緣起
   type: mulu
   level: 1
-hash: sha256:fe82e5115034c1fad0cc4de81aa1e066ec1a5218c0e74297e7f81b767a1afe16
+hash: sha256:e701bd5d603de2a3a294aed988812e65a2435e224d98425063466bea427441af
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
